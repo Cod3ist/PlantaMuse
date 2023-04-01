@@ -16,6 +16,8 @@ This project is an attempt to expand our view of the world that we live in. It i
 to serve as a reminder to us that we are not just existing on Earth; we are a part of a 
 beautiful world that we might not even be aware of, and we must preserve it at all 
 costs.
-This project is divided into three parts: Python, Arduino and Application
+This project is divided into three parts: Python, Arduino and Application.
+
+
 The code for the mobile application is:
 https://github.com/Cod3ist/PlantaMuse_Application
